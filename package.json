@@ -1,0 +1,11 @@
+{
+  "name": "Testclient_Rountriptime",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node roundtrip-measure.js"
+  },
+  "dependencies": {
+   "websocket":"1.*"
+  }
+}
